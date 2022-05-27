@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "/home/nahshal/Documents/Nahshal_ISE_Design/Adder_8Bit/Adder_8Bit_rtl.xst" -ofn "/home/nahshal/Documents/Nahshal_ISE_Design/Adder_8Bit/Adder_8Bit_rtl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa7a100t-csg324-2I Adder_8Bit_rtl.ngc Adder_8Bit_rtl.ngd  
+map -intstyle ise -p xa7a100t-csg324-2I -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Adder_8Bit_rtl_map.ncd Adder_8Bit_rtl.ngd Adder_8Bit_rtl.pcf 
+par -w -intstyle ise -ol high -mt off Adder_8Bit_rtl_map.ncd Adder_8Bit_rtl.ncd Adder_8Bit_rtl.pcf 
+trce -intstyle ise -v 3 -s 2I -n 3 -fastpaths -xml Adder_8Bit_rtl.twx Adder_8Bit_rtl.ncd -o Adder_8Bit_rtl.twr Adder_8Bit_rtl.pcf 

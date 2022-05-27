@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/nahshal/Documents/13000120095_Nahshal_ISE_Design/Up_Down_Counter_4Bit/upDown_counter_testcases_isim_beh.exe" -prj "/home/nahshal/Documents/13000120095_Nahshal_ISE_Design/Up_Down_Counter_4Bit/upDown_counter_testcases_beh.prj" "work.upDown_counter_testcases" 

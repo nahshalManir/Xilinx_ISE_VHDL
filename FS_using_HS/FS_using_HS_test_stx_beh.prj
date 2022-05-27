@@ -1,0 +1,3 @@
+vhdl isim_temp "../Half_Subtractor/Half_Sub_rtl.vhd"
+vhdl isim_temp "FS_using_HS_rtl.vhd"
+vhdl isim_temp "FS_using_HS_test.vhd"

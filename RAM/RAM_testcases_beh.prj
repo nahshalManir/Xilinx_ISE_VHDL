@@ -1,0 +1,2 @@
+vhdl work "../../../Downloads/RAM_rtl.vhd"
+vhdl work "RAM_test.vhd"

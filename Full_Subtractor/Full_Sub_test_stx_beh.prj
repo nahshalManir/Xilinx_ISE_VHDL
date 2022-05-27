@@ -1,0 +1,2 @@
+vhdl isim_temp "Full_Sub_rtl.vhd"
+vhdl isim_temp "Full_Sub_test.vhd"

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/nahshal/Documents/Nahshal_ISE_Design/Comp_Add_Sub/Comp_Add_Sub_isim_beh.exe" -prj "/home/nahshal/Documents/Nahshal_ISE_Design/Comp_Add_Sub/Comp_Add_Sub_beh.prj" "work.Comp_Add_Sub" 

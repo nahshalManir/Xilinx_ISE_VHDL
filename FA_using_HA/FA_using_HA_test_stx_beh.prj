@@ -1,0 +1,3 @@
+vhdl isim_temp "Half_Adder_rtl.vhd"
+vhdl isim_temp "FA_using_HA_rtl.vhd"
+vhdl isim_temp "FA_using_HA_test.vhd"

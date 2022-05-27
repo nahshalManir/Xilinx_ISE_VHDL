@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/nahshal/Documents/Nahshal_ISE_Design/Comparator_4Bit/Comparator_4Bit.xst" -ofn "/home/nahshal/Documents/Nahshal_ISE_Design/Comparator_4Bit/Comparator_4Bit.syr" 

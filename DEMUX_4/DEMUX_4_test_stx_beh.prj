@@ -1,0 +1,2 @@
+vhdl isim_temp "DEMUX_4_rtl.vhd"
+vhdl isim_temp "DEMUX_4_test.vhd"

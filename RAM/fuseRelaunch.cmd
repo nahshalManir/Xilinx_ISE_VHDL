@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/nahshal/Documents/13000120095_Nahshal_ISE_Design/RAM/RAM_testcases_isim_beh.exe" -prj "/home/nahshal/Documents/13000120095_Nahshal_ISE_Design/RAM/RAM_testcases_beh.prj" "work.RAM_testcases" 

@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/nahshal/Documents/Nahshal_ISE_Design/MUX_4-1/MUX_4_1_rtl.xst" -ofn "/home/nahshal/Documents/Nahshal_ISE_Design/MUX_4-1/MUX_4_1_rtl.syr" 
+xst -intstyle ise -ifn "/home/nahshal/Documents/13000120095_Nahshal_ISE_Design/MUX_4-1/MUX_4_1_rtl.xst" -ofn "/home/nahshal/Documents/13000120095_Nahshal_ISE_Design/MUX_4-1/MUX_4_1_rtl.syr" 

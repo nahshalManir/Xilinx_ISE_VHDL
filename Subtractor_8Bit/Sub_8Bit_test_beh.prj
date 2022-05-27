@@ -1,0 +1,3 @@
+vhdl work "../Full_Subtractor/Full_Sub_rtl.vhd"
+vhdl work "Sub_8Bit.vhd"
+vhdl work "Sub_8Bit_test.vhd"

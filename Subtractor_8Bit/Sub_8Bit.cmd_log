@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/nahshal/Documents/Nahshal_ISE_Design/Subtractor_8Bit/Sub_8Bit.xst" -ofn "/home/nahshal/Documents/Nahshal_ISE_Design/Subtractor_8Bit/Sub_8Bit.syr" 
+xst -intstyle ise -ifn "/home/nahshal/Documents/Nahshal_ISE_Design/Subtractor_8Bit/Sub_8Bit.xst" -ofn "/home/nahshal/Documents/Nahshal_ISE_Design/Subtractor_8Bit/Sub_8Bit.syr" 

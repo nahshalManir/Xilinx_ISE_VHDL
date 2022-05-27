@@ -1,0 +1,2 @@
+work	"../Half_Subtractor/Half_Sub_rtl.vhd"
+work	"FS_using_HS_rtl.vhd"

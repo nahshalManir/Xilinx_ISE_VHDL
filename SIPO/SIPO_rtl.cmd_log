@@ -1,0 +1,8 @@
+xst -intstyle ise -ifn "/home/nahshal/Documents/Nahshal_ISE_Design/SIPO/SIPO_rtl.xst" -ofn "/home/nahshal/Documents/Nahshal_ISE_Design/SIPO/SIPO_rtl.syr" 
+xst -intstyle ise -ifn "/home/nahshal/Documents/Nahshal_ISE_Design/SIPO/SIPO_rtl.xst" -ofn "/home/nahshal/Documents/Nahshal_ISE_Design/SIPO/SIPO_rtl.syr" 
+xst -intstyle ise -ifn "/home/nahshal/Documents/Nahshal_ISE_Design/SIPO/SIPO_rtl.xst" -ofn "/home/nahshal/Documents/Nahshal_ISE_Design/SIPO/SIPO_rtl.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa7a100t-csg324-2I SIPO_rtl.ngc SIPO_rtl.ngd  
+map -intstyle ise -p xa7a100t-csg324-2I -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o SIPO_rtl_map.ncd SIPO_rtl.ngd SIPO_rtl.pcf 
+par -w -intstyle ise -ol high -mt off SIPO_rtl_map.ncd SIPO_rtl.ncd SIPO_rtl.pcf 
+trce -intstyle ise -v 3 -s 2I -n 3 -fastpaths -xml SIPO_rtl.twx SIPO_rtl.ncd -o SIPO_rtl.twr SIPO_rtl.pcf 
+xst -intstyle ise -ifn "/home/nahshal/Documents/13000120095_Nahshal_ISE_Design/SIPO/SIPO_rtl.xst" -ofn "/home/nahshal/Documents/13000120095_Nahshal_ISE_Design/SIPO/SIPO_rtl.syr" 

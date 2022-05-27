@@ -1,0 +1,28 @@
+Command line:
+   DEMUX_4_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  42329
+
+Wed May 25 22:21:58 2022
+
+
+ Elaboration Time: 0.03 sec
+
+ Current Memory Usage: 185.983 Meg
+
+ Total Signals          : 12
+ Total Nets             : 12
+ Total Signal Drivers   : 6
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 2
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 372
+
+ Total Simulation Time: 0.6 sec
+
+ Current Memory Usage: 261.485 Meg
+
+Wed May 25 22:24:52 2022
+

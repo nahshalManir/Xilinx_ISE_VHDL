@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/nahshal/Documents/13000120095_Nahshal_ISE_Design/ALU/ALU_4bit_rtl.xst" -ofn "/home/nahshal/Documents/13000120095_Nahshal_ISE_Design/ALU/ALU_4bit_rtl.syr" 
+xst -intstyle ise -ifn "/home/nahshal/Documents/13000120095_Nahshal_ISE_Design/ALU/ALU_4bit_rtl.xst" -ofn "/home/nahshal/Documents/13000120095_Nahshal_ISE_Design/ALU/ALU_4bit_rtl.syr" 

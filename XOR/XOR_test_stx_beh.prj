@@ -1,0 +1,2 @@
+vhdl isim_temp "XOR_rtl.vhd"
+vhdl isim_temp "XOR_test.vhd"

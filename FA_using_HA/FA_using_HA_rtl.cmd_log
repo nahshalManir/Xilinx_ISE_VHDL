@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/nahshal/Documents/Nahshal_ISE_Design/FA_using_HA/FA_using_HA_rtl.xst" -ofn "/home/nahshal/Documents/Nahshal_ISE_Design/FA_using_HA/FA_using_HA_rtl.syr" 

@@ -1,0 +1,2 @@
+vhdl work "../../../Downloads/up-down_counter_rtl.vhd"
+vhdl work "upDown_counter_test.vhd"

@@ -1,0 +1,2 @@
+vhdl work "And_Gate_rtl.vhd"
+vhdl work "And_gate_test.vhd"

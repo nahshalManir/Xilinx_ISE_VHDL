@@ -1,0 +1,4 @@
+vhdl isim_temp "XOR_rtl.vhd"
+vhdl isim_temp "Full_Adder_rtl.vhd"
+vhdl isim_temp "Comp_Add_Sub_rtl.vhd"
+vhdl isim_temp "Comp_Add_Sub.vhd"

@@ -1,0 +1,2 @@
+vhdl work "Half_Adder_rtl.vhd"
+vhdl work "FA_using_HA_rtl.vhd"

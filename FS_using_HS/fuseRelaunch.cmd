@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/nahshal/Documents/Nahshal_ISE_Design/FS_using_HS/FS_using_HS_test_isim_beh.exe" -prj "/home/nahshal/Documents/Nahshal_ISE_Design/FS_using_HS/FS_using_HS_test_beh.prj" "work.FS_using_HS_test" 

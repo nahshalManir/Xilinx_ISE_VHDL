@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/nahshal/Documents/Nahshal_ISE_Design/Full_Adder/Full_Adder_rtl.xst" -ofn "/home/nahshal/Documents/Nahshal_ISE_Design/Full_Adder/Full_Adder_rtl.syr" 

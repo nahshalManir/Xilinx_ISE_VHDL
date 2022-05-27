@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/nahshal/Documents/Nahshal_ISE_Design/Full_Subtractor/Full_Sub_rtl.xst" -ofn "/home/nahshal/Documents/Nahshal_ISE_Design/Full_Subtractor/Full_Sub_rtl.syr" 

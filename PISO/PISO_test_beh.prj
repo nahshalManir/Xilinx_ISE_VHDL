@@ -1,0 +1,3 @@
+vhdl work "../../../Downloads/D_FF_rtl.vhd"
+vhdl work "PISO_rtl.vhd"
+vhdl work "PISO_test.vhd"

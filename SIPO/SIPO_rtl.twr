@@ -1,0 +1,73 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (lin64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+/opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/trce -intstyle ise -v 3 -s 2I
+-n 3 -fastpaths -xml SIPO_rtl.twx SIPO_rtl.ncd -o SIPO_rtl.twr SIPO_rtl.pcf
+
+Design file:              SIPO_rtl.ncd
+Physical constraint file: SIPO_rtl.pcf
+Device,package,speed:     xa7a100t,csg324,I,-2I (PRELIMINARY 1.07 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Setup/Hold to clock clock
+------------+------------+------------+------------+------------+------------------+--------+
+            |Max Setup to|  Process   |Max Hold to |  Process   |                  | Clock  |
+Source      | clk (edge) |   Corner   | clk (edge) |   Corner   |Internal Clock(s) | Phase  |
+------------+------------+------------+------------+------------+------------------+--------+
+clear       |   -0.326(R)|      FAST  |    2.465(R)|      SLOW  |clock_BUFGP       |   0.000|
+data        |    0.107(R)|      FAST  |    1.979(R)|      SLOW  |clock_BUFGP       |   0.000|
+------------+------------+------------+------------+------------+------------------+--------+
+
+Clock clock to Pad
+------------+-----------------+------------+-----------------+------------+------------------+--------+
+            |Max (slowest) clk|  Process   |Min (fastest) clk|  Process   |                  | Clock  |
+Destination |  (edge) to PAD  |   Corner   |  (edge) to PAD  |   Corner   |Internal Clock(s) | Phase  |
+------------+-----------------+------------+-----------------+------------+------------------+--------+
+QA          |         8.516(R)|      SLOW  |         3.155(R)|      FAST  |clock_BUFGP       |   0.000|
+QB          |         8.175(R)|      SLOW  |         3.052(R)|      FAST  |clock_BUFGP       |   0.000|
+QC          |         8.417(R)|      SLOW  |         3.154(R)|      FAST  |clock_BUFGP       |   0.000|
+QD          |         8.285(R)|      SLOW  |         3.097(R)|      FAST  |clock_BUFGP       |   0.000|
+------------+-----------------+------------+-----------------+------------+------------------+--------+
+
+Clock to Setup on destination clock clock
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+clock          |    0.957|         |         |         |
+---------------+---------+---------+---------+---------+
+
+
+Analysis completed Sun May  8 21:55:57 2022 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 753 MB
+
+
+

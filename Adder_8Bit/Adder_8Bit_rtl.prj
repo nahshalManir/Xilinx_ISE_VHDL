@@ -1,0 +1,2 @@
+vhdl work "../Full_Adder/Full_Adder_rtl.vhd"
+vhdl work "Adder_8Bit_rtl.vhd"

@@ -1,0 +1,2 @@
+vhdl work "XOR_rtl.vhd"
+vhdl work "XOR_test.vhd"

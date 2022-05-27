@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/nahshal/Documents/Nahshal_ISE_Design/S_R_FF/S_R_FF.xst" -ofn "/home/nahshal/Documents/Nahshal_ISE_Design/S_R_FF/S_R_FF.syr" 
+xst -intstyle ise -ifn "/home/nahshal/Documents/13000120095_Nahshal_ISE_Design/S_R_FF/S_R_FF.xst" -ofn "/home/nahshal/Documents/13000120095_Nahshal_ISE_Design/S_R_FF/S_R_FF.syr" 

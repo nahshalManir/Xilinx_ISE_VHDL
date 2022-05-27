@@ -1,0 +1,2 @@
+vhdl isim_temp "../../../Downloads/up-down_counter_rtl.vhd"
+vhdl isim_temp "upDown_counter_test.vhd"

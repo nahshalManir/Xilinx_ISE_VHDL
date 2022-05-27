@@ -1,0 +1,3 @@
+vhdl work "D_FF_rtl.vhd"
+vhdl work "SIPO_rtl.vhd"
+vhdl work "SIPO_test.vhd"

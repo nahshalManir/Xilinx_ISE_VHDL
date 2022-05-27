@@ -1,0 +1,2 @@
+vhdl work "Comparator_4Bit.vhd"
+vhdl work "Comparator_4Bit_test.vhd"

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/nahshal/Documents/13000120095_Nahshal_ISE_Design/DEMUX_4/DEMUX_4_rtl.xst" -ofn "/home/nahshal/Documents/13000120095_Nahshal_ISE_Design/DEMUX_4/DEMUX_4_rtl.syr" 
